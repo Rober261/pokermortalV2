@@ -1,0 +1,3 @@
+<template>
+  <h1>Deck</h1>
+</template>
